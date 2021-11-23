@@ -55,6 +55,6 @@ class Ladra {
 
 -----
 
-<img width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.expertoanimal.com%2Fpor-que-ladran-los-perros-21116.html&psig=AOvVaw0ylYBi7Q2b_5F8_TQi2S4z&ust=1637750568583000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCE_bimrvQCFQAAAAAdAAAAABAD"/>
+<img width="50" src="https://t1.ea.ltmcdn.com/es/images/6/1/1/img_por_que_ladran_los_perros_21116_orig.jpg"/>
 
 [perro]:Perro_mas_bonito.jpg
