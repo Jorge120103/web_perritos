@@ -27,4 +27,4 @@ Somos una ***asociación*** amante de los animales. Fuck ~~maltrato~~ fuck sapos
 
 ![alt][perro]
 
-[perro]:perro.jfif
+[perro]:Perro_mas_bonito.jpg
