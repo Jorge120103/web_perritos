@@ -28,3 +28,10 @@ Somos una ***asociación*** amante de los animales. Fuck ~~maltrato~~ fuck sapos
 ![alt][perro]
 
 [perro]:Perro_mas_bonito.jpg
+
+## Tabla de peso en función de la edad y el tipo de raza
+
+| **edad** | **pequeño** | **mediano** | **grande** |
+| 5 | 36 | 37 | 40 |
+| 10 | 56 | 60 | 66 |
+| 15| 76 | 86 | 93 |
