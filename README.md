@@ -31,8 +31,8 @@ Somos una ***asociación*** amante de los animales. Fuck ~~maltrato~~ fuck sapos
 
 ## Tabla de peso en función de la edad y el tipo de raza
 
-|        --||          --||          --||         --|
-| **edad** | **pequeño** | **mediano** | **grande** |
-|     :5:  |         :36:|          37 |         40 |
-|    :10:  |         :56:|          60 |         66 |
-|      :15:|          76 |          86 |         93 |
+|edad|pequeño|mediano|grande|
+|-----:|:-----:|:-----:|:-----:|
+|5|36|37|40|
+|10|56|60|66|
+|15|76|86|93|
